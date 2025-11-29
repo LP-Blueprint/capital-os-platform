@@ -1,3 +1,4 @@
+cat > components/Hero.tsx << 'EOF'
 export default function Hero() {
   return (
     <section className="min-h-screen bg-gradient-to-b from-[#4a5fff] to-black flex items-center justify-center px-4 py-20">
@@ -20,3 +21,4 @@ export default function Hero() {
     </section>
   );
 }
+EOF
