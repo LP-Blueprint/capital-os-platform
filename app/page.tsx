@@ -1,6 +1,7 @@
 'use client';
 
 import Hero from '@/components/Hero';
+import TimeMatters from '@/components/TimeMatters';
 import ThreeCees from '@/components/ThreeCees';
 import Comparison from '@/components/Comparison';
 import Features from '@/components/Features';
@@ -13,6 +14,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <Hero />
+      <TimeMatters />
       <ThreeCees />
       <Comparison />
       <Features />
