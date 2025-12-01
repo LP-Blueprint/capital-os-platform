@@ -3,15 +3,15 @@ export default function Hero() {
     <section className="min-h-screen bg-gradient-to-b from-[#4a5fff] to-black flex items-center justify-center px-4 py-20">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-6xl md:text-7xl font-bold mb-6 leading-tight">
-          We Do Not Waste Anyone's <span className="text-[#ffb800]">Fucking Time</span>
+          Close Your Next Fund Before Your LPs <span className="text-[#ffb800]">Call Your Competitors</span>
         </h1>
         
         <h2 className="text-2xl md:text-3xl text-gray-300 mb-8 font-light">
-          Do you?
+          Whether you're fundless, raising Fund I, or closing Fund II while deploying.
         </h2>
 
         <p className="text-lg md:text-xl text-gray-400 mb-12 max-w-2xl mx-auto">
-          If you can commit 1 hour/week (unless your GP Velocity proves you're executing), we're here. If you can't, we're not. No meetings. No hand-holding. No bullshit.
+          We make LPs chase you instead of the other way around. We build robust capital formation systems so you stay in perpetual motion—no cold starts, no desperation, no momentum loss.
         </p>
 
         <div className="flex flex-col md:flex-row gap-4 justify-center mb-12">
@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
 
         <p className="text-sm text-gray-500">
-          142+ real GPs. ~5 LP intros/month. Zero carry. All behavior-based.
+          144+ GPs. Funds I-VII. Fundless sponsors. ~5 LP intros/month. Zero carry. All behavior-based.
         </p>
       </div>
     </section>
